@@ -144,6 +144,7 @@ Future<void> user_panel() async {
         switch(stdin.readLineSync()) {
             case "j":
                 clubs_screen();
+                return;
                 break;
             case "n":
                 print("U heeft de app verlaten.");
@@ -151,6 +152,7 @@ Future<void> user_panel() async {
                 break;
             default:
                 user_panel();
+                return;
                 break;
         }
     }
