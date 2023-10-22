@@ -42,9 +42,9 @@ https://docs.flutter.dev/cookbook/navigation/set-up-app-links
 ## Examples
 In examples vindt ge drie Dart-projecten. Deze code zou u moeten helpen de API en de Payments geimplementeerd te krijgen in uw Flutter-project.
 
-- *api:* Dart-code waarin de API op verschillende manieren gebruikt wordt. Voor elke situatie die ge tegen gaat komen zal hier wel een voorbeeld in staan.
-- *payments:*: Toont hoe een ticket te bestellen en de betaling te voltooien in Dart.
-- *app:* Een 'volledig' werkende CLI-versie van uw app. Hier vindt ge de Dart code om een gebruiker te registreren, te laten inloggen, weergeven van alle clubs, weergeven van events die een club heeft, event bekijken, ticket bestellen, tickets bekijken,... Dit is uiteraard slechts een simpele CLI versie. Maar ge kunt er wel wat code uithalen om te implementeren in uw GUI-app.
+- **api:** Dart-code waarin de API op verschillende manieren gebruikt wordt. Voor elke situatie die ge tegen gaat komen zal hier wel een voorbeeld in staan.
+- **payments:**: Toont hoe een ticket te bestellen en de betaling te voltooien in Dart.
+- **app:** Een 'volledig' werkende CLI-versie van uw app. Hier vindt ge de Dart code om een gebruiker te registreren, te laten inloggen, weergeven van alle clubs, weergeven van events die een club heeft, event bekijken, ticket bestellen, tickets bekijken,... Dit is uiteraard slechts een simpele CLI versie. Maar ge kunt er wel wat code uithalen om te implementeren in uw GUI-app.
 
 ## TODO
 Volgens mij kunt ge op deze basis wel verder bouwen maar uiteraard gaat ge nog een paar dingen willen implementeren. Bijvoorbeeld:
